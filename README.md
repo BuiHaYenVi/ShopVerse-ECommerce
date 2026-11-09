@@ -185,7 +185,7 @@ Chỉ với 1 câu lệnh duy nhất, toàn bộ hệ thống gồm Database, AP
 
 ```bash
 # Clone dự án
-git clone https://github.com/your-username/ShopVerse-ECommerce.git
+git clone https://github.com/BuiHaYenVi/ShopVerse-ECommerce.git
 cd ShopVerse-ECommerce
 
 # Khởi chạy toàn bộ hệ thống
