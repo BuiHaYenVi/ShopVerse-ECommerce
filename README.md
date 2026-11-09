@@ -18,27 +18,14 @@
 - **Interactive Swagger OpenAPI**: `http://localhost:5000/api/docs`
 - **Health Check Endpoint**: `http://localhost:5000/api/v1/health`
 
-```text
-[Giao diện Storefront]
-┌────────────────────────────────────────────────────────────────────────┐
-│  ShopVerse Enterprise       [Tìm kiếm sản phẩm...]       (🛒 3)  [User] │
-├────────────────────────────────────────────────────────────────────────┤
-│  ⚡ [Tất cả] [Điện tử] [Thời trang] [Gia dụng]   ⭐ Nổi bật  [Mới nhất ▼]│
-│                                                                        │
-│  ┌──────────────────┐  ┌──────────────────┐  ┌──────────────────┐      │
-│  │  [Hình ảnh SP]   │  │  [Hình ảnh SP]   │  │  [Hình ảnh SP]   │      │
-│  │  Sony WH-1000XM5 │  │ Keychron K2 Pro  │  │ Áo khoác Urban   │      │
-│  │  7.990.000 đ [🛒]│  │ 2.450.000 đ [🛒]│  │ 499.000 đ   [🛒]│      │
-│  └──────────────────┘  └──────────────────┘  └──────────────────┘      │
-└────────────────────────────────────────────────────────────────────────┘
-```
-<img width="565" height="686" alt="image" src="https://github.com/user-attachments/assets/798f5ea0-e994-4d15-9c97-b7d37e386273" />
-<img width="566" height="455" alt="image" src="https://github.com/user-attachments/assets/ab408459-cda1-4e32-9950-e4f57cf94a7a" />
+<img width="400" height="500" alt="image" src="https://github.com/user-attachments/assets/798f5ea0-e994-4d15-9c97-b7d37e386273" />
+<img width="400" height="500" alt="image" src="https://github.com/user-attachments/assets/ab408459-cda1-4e32-9950-e4f57cf94a7a" />
 
 <img width="1917" height="921" alt="image" src="https://github.com/user-attachments/assets/80ee9e5c-94ef-4f6e-a90a-f4da0abdd53e" />
 <img width="1917" height="921" alt="image" src="https://github.com/user-attachments/assets/cc5f40e0-a83f-4b77-8cce-7bb406676836" />
 <img width="1917" height="921" alt="image" src="https://github.com/user-attachments/assets/f2e67dcf-cd13-45a6-baa5-7baaee079b93" />
 <img width="1917" height="921" alt="image" src="https://github.com/user-attachments/assets/e1a3bfd8-8587-4e0d-86ee-e83d8a6fb5a9" />
+<img width="1917" height="922" alt="image" src="https://github.com/user-attachments/assets/9ac58aa2-ec30-4a27-a9a6-599277beea81" />
 
 ---
 
