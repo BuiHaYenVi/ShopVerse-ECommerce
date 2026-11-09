@@ -43,6 +43,7 @@ Thumbs.db
 
 # Database / Local Volume data
 pgdata/
+.pgdata/
 *.sqlite
 *.sqlite-journal
 
